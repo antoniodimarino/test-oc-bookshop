@@ -1,0 +1,7 @@
+comandi.txt
+openshift/
+**/.classpath
+**/.project
+**/.settings/
+**/target/
+**/test/java/**
